@@ -9,7 +9,7 @@
 自身のRプログラミングの学習を主眼として，美味しい「肉」，美味しい「米」がさらなる発展に寄与できることを目指すもので**R**。
 
 
-## Project Structure（大潟村そのものから徐々にIkiへと）
+## Project Structure（大潟村から徐々にIkiへと）
 ```r
 Quarto/Iki_paddies
 ├── Iki_paddies.Rproj
